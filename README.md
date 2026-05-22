@@ -1,6 +1,6 @@
-# Site de Receita
+# Receita de Cupcake de Cafe
 
-Uma pagina simples de receita feita com **HTML** e **CSS**, desenvolvida como atividade pratica para treinar estrutura semantica, organizacao de estilos e uso de imagens em uma pagina estatica.
+Uma pagina simples e elegante de receita feita com **HTML** e **CSS**, desenvolvida como atividade pratica para treinar estrutura semantica, organizacao de estilos e uso de imagens em uma pagina estatica.
 
 ![Preview da receita](projeto_receitas/imagens/main-image.png)
 
